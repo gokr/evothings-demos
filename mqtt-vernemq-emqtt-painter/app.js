@@ -5,8 +5,6 @@
 //Object that holds application data and functions.
 var app = {};
 
-// BEWARE: These need to be edited! If you are lucky my
-// MQTT server is up, but I promise nothing.
 var host = 'vernemq.evothings.com';
 var port = 8084;
 var user = 'anon';
